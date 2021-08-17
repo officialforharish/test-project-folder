@@ -1,8 +1,9 @@
-Name: 
-Mobile Number:
-Email ID:
-Address:
-City:
-State:
-Pincode: 
-Country:
+Role: ANGULAR DEVELOPER
+Name: HARISH REDDY
+Mobile Number: +91 9493000703
+Email ID: harishreddy.hrd@gmail.com
+Address: #18-4-39, Kedareswarapeta
+City: VIJAYAWADA
+State: ANDHRA PRADESH
+Pincode: 520003
+Country: INDIA
