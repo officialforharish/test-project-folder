@@ -1,8 +1,8 @@
-Name: 
-Mobile Number:
-Email ID:
-Address:
-City:
-State:
-Pincode: 
-Country:
+Name: D. MANI KRISHNA 
+Mobile Number: 790153
+Email ID: krishna@gmail.com
+Address: Kd peta
+City: vijayawada
+State: AP
+Pincode: 520003
+Country: India
