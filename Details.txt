@@ -1,0 +1,8 @@
+Name: 
+Mobile Number:
+Email ID:
+Address:
+City:
+State:
+Pincode: 
+Country:
