@@ -1,11 +1,3 @@
-Employee Details
+Please copy paste bahubali plot from wikipedia below
 
-Name: D. MANI KRISHNA 
-Mobile Number: 790153
-Email ID: krishna@gmail.com
-Address: Kd peta
-City: vijayawada
-State: AP
-Pincode: 520003
-Country: India
-Role: UI Designer
+//Paste Matter Here
